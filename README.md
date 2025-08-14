@@ -33,8 +33,6 @@ Follow the repository for updates.
 📷 Preview
 <img src="dashboard.png" alt="AI Dashboard Preview" width="800" />
 
-(Replace screenshot.png with the actual file name of your screenshot in the repo)
-
 📜 License
 
 This project is open-source and available under the MIT License.
